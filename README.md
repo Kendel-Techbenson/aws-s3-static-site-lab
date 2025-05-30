@@ -58,4 +58,4 @@ This project demonstrates how to host a static website using Amazon S3. The lab 
 
 ## 🔗 S3 Website URL
 
-**https://kendel-access-lab-bucket.s3-website-us-east-1.amazonaws.com**
+**[*](https://kendel-access-lab-bucket.s3.us-east-1.amazonaws.com/index.html)*
